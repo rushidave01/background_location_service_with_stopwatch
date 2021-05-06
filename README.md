@@ -1,6 +1,7 @@
 # flutter_timer_location_service
 
-A new Flutter application.
+This is the basic flutter application project in which user can get the background location in both respective devices Android as well as Ios with the stopwatch timer.
+In this project I used background_locator pluggin to get background location.
 
 ## Getting Started
 
